@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 13:34:34 EDT 2020
+httpcore-4.4.6-sources.jar>central=
+httpcore-4.4.6.jar>central=
+httpcore-4.4.6.pom>central=
